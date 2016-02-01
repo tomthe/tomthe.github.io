@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on tomthe</title>
-    <link>http://127.0.0.1:1313/tags/links/</link>
+    <link>http://tomthe.github.io/tags/links/</link>
     <description>Recent content in Links on tomthe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-de</language>
     <lastBuildDate>Thu, 28 Jan 2016 19:33:54 +0100</lastBuildDate>
-    <atom:link href="http://127.0.0.1:1313/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tomthe.github.io/tags/links/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Links, January 2016</title>
-      <link>http://127.0.0.1:1313/post/2016-01-links/</link>
+      <link>http://tomthe.github.io/post/2016-01-links/</link>
       <pubDate>Thu, 28 Jan 2016 19:33:54 +0100</pubDate>
       
-      <guid>http://127.0.0.1:1313/post/2016-01-links/</guid>
+      <guid>http://tomthe.github.io/post/2016-01-links/</guid>
       <description>
 
 &lt;h2 id=&#34;random-interesting-stuff:90fdc12eb0b2ee5dda2ea10d11849693&#34;&gt;Random, interesting stuff&lt;/h2&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>Links, December 2015</title>
-      <link>http://127.0.0.1:1313/post/2015-12-links/</link>
+      <link>http://tomthe.github.io/post/2015-12-links/</link>
       <pubDate>Thu, 31 Dec 2015 19:33:54 +0100</pubDate>
       
-      <guid>http://127.0.0.1:1313/post/2015-12-links/</guid>
+      <guid>http://tomthe.github.io/post/2015-12-links/</guid>
       <description>
 
 &lt;h3 id=&#34;random-interesting-stuff:09561c4496647a3bc6cfd5c30ac8ccc9&#34;&gt;Random, interesting Stuff&lt;/h3&gt;

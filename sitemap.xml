@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://127.0.0.1:1313/</loc>
+    <loc>http://tomthe.github.io/</loc>
     <lastmod>2016-01-28T19:33:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/post/2016-01-links/</loc>
+    <loc>http://tomthe.github.io/post/2016-01-links/</loc>
     <lastmod>2016-01-28T19:33:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/post/2015-12-links/</loc>
+    <loc>http://tomthe.github.io/post/2015-12-links/</loc>
     <lastmod>2015-12-31T19:33:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/post/hier%20und%20heute/</loc>
+    <loc>http://tomthe.github.io/post/hier%20und%20heute/</loc>
     <lastmod>2015-12-19T20:41:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/about/mow/</loc>
+    <loc>http://tomthe.github.io/about/mow/</loc>
     <lastmod>2015-11-10T20:41:42+01:00</lastmod>
   </url>
   

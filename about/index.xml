@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on tomthe</title>
-    <link>http://127.0.0.1:1313/about/</link>
+    <link>http://tomthe.github.io/about/</link>
     <description>Recent content in Abouts on tomthe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-de</language>
     <lastBuildDate>Tue, 10 Nov 2015 20:41:42 +0100</lastBuildDate>
-    <atom:link href="http://127.0.0.1:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tomthe.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>mowwefwe</title>
-      <link>http://127.0.0.1:1313/about/mow/</link>
+      <link>http://tomthe.github.io/about/mow/</link>
       <pubDate>Tue, 10 Nov 2015 20:41:42 +0100</pubDate>
       
-      <guid>http://127.0.0.1:1313/about/mow/</guid>
+      <guid>http://tomthe.github.io/about/mow/</guid>
       <description>
 
 &lt;h1 id=&#34;hier-steht-ein-texgt:81a715ac175c74939728b806028a34c5&#34;&gt;Hier steht ein Texgt&lt;/h1&gt;
